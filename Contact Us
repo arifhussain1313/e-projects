@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Map-->
+    <div class="contact">
+        <div class="map">
+            <!-- google map URL -->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d115777.99763146514!2d67.1869407!3d24.9299432!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3eb338c0f3713f79%3A0xd93ccefc56ffe37e!2zRmlyc3QgRmxvb3IsIEJlbGwgQXJjYWRlLCBPcHBvc2l0ZSB0byBVbml2ZXJzaXR5IG9mIEthcmFjaGksIE1haW4g24zZiNmG24zZiNix2LPZuduMINix2YjaiNiMIDEg2KjZhNin2qkgQmxvY2sgMSDar9mE2LPYqtin2YbZkCDYrNmI24HYsdiMINqp2LHYp9qG24wsINi22YTYuSDaqdix2KfahtuMLCDYs9mG2K_avuKArQ!3m2!1d24.9299596!2d67.11690039999999!5e0!3m2!1sen!2s!4v1713202227573!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <!-- div Form -->
+        <div class="form">
+            <!-- heading -->
+            <h1>contact Us</h1>
+            <!-- form -->
+            <form action="#">
+                <!-- input -->
+                <input type="text" placeholder="Name">
+                <input type="text" placeholder="Email">
+                <input type="text" placeholder="Phone No">
+                <!-- textarea -->
+                <textarea placeholder="Message"></textarea>
+                <!-- button -->
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
